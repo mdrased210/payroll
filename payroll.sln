@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31727.386
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "server", "server\server.csproj", "{54DC67F4-96EE-4D88-902E-DC75CC62F95E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database installer", "Database installer\Database installer.csproj", "{46F48203-E34C-4734-9DED-862EE3EE1ABE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{54DC67F4-96EE-4D88-902E-DC75CC62F95E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54DC67F4-96EE-4D88-902E-DC75CC62F95E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54DC67F4-96EE-4D88-902E-DC75CC62F95E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46F48203-E34C-4734-9DED-862EE3EE1ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F48203-E34C-4734-9DED-862EE3EE1ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F48203-E34C-4734-9DED-862EE3EE1ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F48203-E34C-4734-9DED-862EE3EE1ABE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
